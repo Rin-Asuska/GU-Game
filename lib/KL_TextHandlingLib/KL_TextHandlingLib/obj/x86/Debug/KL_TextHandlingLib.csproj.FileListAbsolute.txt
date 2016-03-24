@@ -1,0 +1,16 @@
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\KL_TextHandlingLib.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\KL_TextHandlingLib.pdb
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\obj\x86\Debug\KL_TextHandlingLib.csprojResolveAssemblyReference.cache
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\obj\x86\Debug\KL_TextHandlingLib.dll
+c:\users\kira\documents\visual studio 2015\Projects\KL_TextHandlingLib\KL_TextHandlingLib\obj\x86\Debug\KL_TextHandlingLib.pdb
